@@ -26,3 +26,31 @@ Spring sees @Configuration → It knows this class contains beans.
     Manually plug in the lamp.
 
 With @Autowired, it's like the lamp automatically connects to electricity without you doing anything!
+
+
+From 50 
+
+Aspect-Oriented Programming (AOP)
+a way to separate cross-cutting concerns (like logging, security, or transaction management) from the main business logic.
+Instead of writing repetitive code in multiple places, AOP allows you to define these concerns once and apply them where needed.
+
+Make the coffee (Main business logic).
+Print a receipt (Logging).
+Charge the customer (Security/transaction).
+
+
+Instead of adding steps 2 and 3 in every coffee-making process, AOP lets you define them separately and apply them automatically whenever needed.
+
+LoggerAspect class monitors and logs when methods start, end, how long they take to execute, if they fail, and what they return.
+
+@Aspect and @Component
+
+
+These tell Spring that this class contains special "Aspect" (AOP-related) code. It will automatically apply logging to the relevant parts of the program.
+
+ (VehicleStartCheckAspect) that applies a pre-condition check before executing methods in the com.example.services package.
+
+@Order(1): Sets the execution order of aspects (if multiple aspects exist). Lower numbers run first.
+
+Logger from Java's built-in java.util.logging package to log messages for the VehicleServices
+ 
