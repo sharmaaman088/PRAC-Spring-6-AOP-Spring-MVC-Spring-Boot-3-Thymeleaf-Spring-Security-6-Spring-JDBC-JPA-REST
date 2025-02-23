@@ -1,0 +1,8 @@
+/home/aman/Desktop/GitUpload/Master Java framework Spring 6, AOP, Spring MVC, Spring Boot 3, Thymeleaf, Spring Security 6, Spring JDBC, JPA,REST/example21/src/main/java/com/eazybytes/eazyschool/EazyschoolApplication.java
+/home/aman/Desktop/GitUpload/Master Java framework Spring 6, AOP, Spring MVC, Spring Boot 3, Thymeleaf, Spring Security 6, Spring JDBC, JPA,REST/example21/src/main/java/com/eazybytes/eazyschool/config/Webconfig.java
+/home/aman/Desktop/GitUpload/Master Java framework Spring 6, AOP, Spring MVC, Spring Boot 3, Thymeleaf, Spring Security 6, Spring JDBC, JPA,REST/example21/src/main/java/com/eazybytes/eazyschool/controller/ContactController.java
+/home/aman/Desktop/GitUpload/Master Java framework Spring 6, AOP, Spring MVC, Spring Boot 3, Thymeleaf, Spring Security 6, Spring JDBC, JPA,REST/example21/src/main/java/com/eazybytes/eazyschool/controller/HolidaysController.java
+/home/aman/Desktop/GitUpload/Master Java framework Spring 6, AOP, Spring MVC, Spring Boot 3, Thymeleaf, Spring Security 6, Spring JDBC, JPA,REST/example21/src/main/java/com/eazybytes/eazyschool/controller/HomeController.java
+/home/aman/Desktop/GitUpload/Master Java framework Spring 6, AOP, Spring MVC, Spring Boot 3, Thymeleaf, Spring Security 6, Spring JDBC, JPA,REST/example21/src/main/java/com/eazybytes/eazyschool/model/Contact.java
+/home/aman/Desktop/GitUpload/Master Java framework Spring 6, AOP, Spring MVC, Spring Boot 3, Thymeleaf, Spring Security 6, Spring JDBC, JPA,REST/example21/src/main/java/com/eazybytes/eazyschool/model/Holiday.java
+/home/aman/Desktop/GitUpload/Master Java framework Spring 6, AOP, Spring MVC, Spring Boot 3, Thymeleaf, Spring Security 6, Spring JDBC, JPA,REST/example21/src/main/java/com/eazybytes/eazyschool/service/ContactService.java
